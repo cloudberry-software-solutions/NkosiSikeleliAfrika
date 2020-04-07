@@ -1,0 +1,2 @@
+# NkosiSikeleliAfrika
+This projects seeks collaborate efforts of ordinary citizens of south africa to mitigate the spread of COVID-19 through community-driven contact tracing. This application plans to make use of Bluetooth signals to determine if you are near another user with this application installed.  Your Bluetooth proximity data will be encrypted and stored only on a users phone. The department of health will seek your consent to upload the data, if it’s needed for contact tracing.
